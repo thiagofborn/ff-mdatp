@@ -15,7 +15,7 @@ sudo mdatp exclusion list
 ## Test 2 
 Results:
 ```text
-
+sudo mdatp exclusion list
 ```
 ![alt text](./media/cmd_e_managed_merged-01.png "mdatp_managed")
 
